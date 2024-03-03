@@ -3,4 +3,9 @@
 Dataset ----------> PreProcessing ----------> Model -----------> Web App -----------> Deploying
 
 
-columns 
+Important columns thayt cn be used in movie recommendation ; 
+     - Movie Title
+     - Overview - About the movie.
+     - genres
+     - Cast
+     - Crew
